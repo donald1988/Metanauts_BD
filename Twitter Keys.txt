@@ -1,0 +1,19 @@
+1) 
+What is the use of the data that you are collecting?
+I collected all the tweets from Barack Obama. The use is to inform the public of his new life.
+
+
+
+2) 
+What kind of analysis would you like to run on this data?
+we can run many kind of analysis:
+* tweets frequence by week/month and years and build some differents graphs with
+*type of tweets
+*in what periode he like to tweet more
+
+
+
+3)
+What are the libraries that you are going to need in order run the said analysis?
+pandas, numpy, matplotlib, sklearn, json, resquests 
+
